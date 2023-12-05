@@ -1,5 +1,4 @@
 #ScreenShots
-![7](https://github.com/A-n-c-h-a-l/foodWebsite/assets/136986688/8adf8feb-a1c0-4e89-a381-1fac1541c5fe)
 ![8](https://github.com/A-n-c-h-a-l/foodWebsite/assets/136986688/4dd417bf-e9ca-4f82-acb1-393d5ba0638b)
 ![9](https://github.com/A-n-c-h-a-l/foodWebsite/assets/136986688/900ac4cf-928c-40e1-b8a5-5684c1d450d5)
 ![10](https://github.com/A-n-c-h-a-l/foodWebsite/assets/136986688/62d7cb56-023b-461d-9ac9-5db4d914c35c)
