@@ -3,7 +3,7 @@
 
 ![9](https://github.com/A-n-c-h-a-l/foodWebsite/assets/136986688/900ac4cf-928c-40e1-b8a5-5684c1d450d5)
 
-![10](https://github.com/A-n-c-h-a-l/foodWebsite/assets/136986688/62d7cb56-023b-461d-9ac9-5db4d914c35c =250x250)
+![10](https://github.com/A-n-c-h-a-l/foodWebsite/assets/136986688/62d7cb56-023b-461d-9ac9-5db4d914c35c)
 
 ![11](https://github.com/A-n-c-h-a-l/foodWebsite/assets/136986688/530bc69a-a531-423d-8f62-9161e169db0f)
 
